@@ -1,5 +1,5 @@
 {
   "domain": "decentscale",
   "name": "Decent Scale",
-  "config_flow": false
+  "config_flow": true
 }
