@@ -1,0 +1,7 @@
+{
+  "name": "Decent Scale",
+  "render_readme": true,
+  "domains": ["sensor"],
+  "country": "dk",
+  "homeassistant": "2022.0.0"
+}
